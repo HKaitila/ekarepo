@@ -1,5 +1,5 @@
 eka rivi
 toka rivi
-kolmas rivi
+kolmas rivi, terveisiä githubista
 lempiviikkoni oli vko4
 lempitehtäväni oli 9
