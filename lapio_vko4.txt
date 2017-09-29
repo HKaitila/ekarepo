@@ -2,3 +2,4 @@ eka rivi
 toka rivi
 kolmas rivi
 lempiviikkoni oli vko4
+lempitehtäväni oli 9
