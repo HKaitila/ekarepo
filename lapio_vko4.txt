@@ -1,5 +1,5 @@
-eka rivi
+taeka rivi
 toka rivi
-kolmas rivi, terveisiä githubista
+kolmas rivi, terveisiä mun koneelta
 lempiviikkoni oli vko4
 lempitehtäväni oli 9
